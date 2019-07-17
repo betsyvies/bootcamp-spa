@@ -10,7 +10,7 @@
 
 ## SCR
 
-- Es la carpeta que contiene el código fuente del proyecto, en donde se visualiza las carpetas fetch, template-string, template-tag y los archivos index.html, main.css y app.js para cada uno.
+- Es la carpeta que contiene el código fuente del proyecto, en donde se visualiza las carpetas css, view-controller, view y los archivos index.html y main.js del proyecto.
 
 ## Rutas del SPA
 
